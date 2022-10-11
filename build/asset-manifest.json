@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e2344a6.css",
+    "main.js": "/static/js/main.33faa1c6.js",
+    "static/js/787.226f4826.chunk.js": "/static/js/787.226f4826.chunk.js",
+    "static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg": "/static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.1b433ad97ad6ec0d4b22.jpg",
+    "index.html": "/index.html",
+    "main.7e2344a6.css.map": "/static/css/main.7e2344a6.css.map",
+    "main.33faa1c6.js.map": "/static/js/main.33faa1c6.js.map",
+    "787.226f4826.chunk.js.map": "/static/js/787.226f4826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2344a6.css",
+    "static/js/main.33faa1c6.js"
+  ]
+}
